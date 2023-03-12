@@ -1,0 +1,13 @@
+1 - A Java constructor is special method that is called when an object is instantiated.
+ In other words, when you use the new keyword. The purpose of a Java constructor is 
+ to initializes the newly created object before it is used. This Java constructors 
+ tutorial will explore Java constructors in more detail .
+
+2 - Nothing 
+
+3 - Constructor in java is used to create the instance of the class .
+
+4 - • In java there are 3 Constructor Types :
+ 1. Default  2. No-Args Constructor  3. Parameterized Constructor .
+
+
